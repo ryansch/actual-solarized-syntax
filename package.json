@@ -1,13 +1,13 @@
 {
-  "name": "actual-solarized-syntax",
+  "name": "solarized-9000",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "everyone else is wrong",
+  "description": "Clearly the best solarized theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/daaott/actual-solarized-syntax",
+  "repository": "https://github.com/ryansch/solarized-9000",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
